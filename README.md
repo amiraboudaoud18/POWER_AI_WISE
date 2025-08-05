@@ -96,3 +96,10 @@ README.md
 ## License
 
 This project is for academic purposes (WISE 2025 — Industrial AI). Please contact the authors for usage outside this scope.
+
+![example image](Assets/img1.png)
+![example image](Assets/img2.png)
+![example image](Assets/img4.png)
+![example image](Assets/img3.png)
+
+
